@@ -14,7 +14,7 @@ I build things that sit close to the hardware: a soft-core processor and its per
 C, the PC-side tools that talk to them, and the circuit boards they run on. Since 2017 I have been at
 [SkyLabs](https://www.skylabs.si), where I help design **PicoSky**, an 8/16-bit radiation-hardened soft-core
 microprocessor that flies on nanosatellites, and do black-box firmware testing in C++17 and Qt 6. My first space
-project was as a student on TRISAT, the University of Maribor's nanosatellite mission. Before SkyLabs I designed
+project was as a student on [TRISAT](http://www.trisat.um.si), the University of Maribor's nanosatellite mission. Before SkyLabs I designed
 circuit boards and open hardware at [IRNAS](https://www.irnas.eu), including work on the KORUZA free-space optical
 link.
 
