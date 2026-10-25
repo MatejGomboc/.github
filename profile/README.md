@@ -7,6 +7,7 @@ day job ........ embedded systems for safety-critical aerospace, at SkyLabs
 trained as ..... BSc Physics (University of Ljubljana), MSc Electrical Engineering (University of Maribor)
 writes in ...... C++ · C · Rust · Verilog · Python
 speaks ......... Slovenian · English · German, conversational Swedish and Croatian
+also ........... science fiction writing · doing sci-fi-ish projects together with Claude · obsessing over rock music
 ```
 
 I build things that sit close to the hardware: a soft-core processor and its peripherals in Verilog, firmware in
@@ -19,7 +20,8 @@ link.
 
 Beyond the day job I am drawn to where embedded systems meet AI, AI-augmented development, and graphics programming
 in Vulkan. I am a physicist at heart: an amateur astronomer, a radio amateur, and someone who keeps writing
-simulations of galaxies, strings and pendulums just to watch them move. I also learn languages for the fun of it.
+simulations of galaxies, strings and pendulums just to watch them move. I also learn languages for the fun of it, and write
+science fiction as an amateur author.
 
 ## Organisations I run
 
