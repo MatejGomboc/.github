@@ -59,7 +59,7 @@ science fiction as an amateur author.
 
 ## Find me
 
-[LinkedIn](https://si.linkedin.com/in/matej-gomboc) · [all repositories](https://github.com/MatejGomboc?tab=repositories)
+[LinkedIn](https://si.linkedin.com/in/matej-gomboc) · [Facebook](https://www.facebook.com/matej.gomboc.3) · [all repositories](https://github.com/MatejGomboc?tab=repositories)
 
 ## Licence
 
