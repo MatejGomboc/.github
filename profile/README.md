@@ -1,4 +1,4 @@
-# Hi, I'm Matej 👋
+# My GitHub front page. Welcome!
 
 ```text
 name ........... Matej Gomboc
