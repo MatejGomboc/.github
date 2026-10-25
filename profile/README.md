@@ -4,7 +4,7 @@
 name ........... Matej Gomboc
 based in ....... Maribor, Slovenia
 day job ........ embedded systems for safety-critical aerospace, at SkyLabs
-trained as ..... BSc Physics (Ljubljana), MSc Electrical Engineering (Maribor)
+trained as ..... BSc Physics (University of Ljubljana), MSc Electrical Engineering (University of Maribor)
 writes in ...... C++ · C · Rust · Verilog · Python
 speaks ......... Slovenian · English · German, conversational Swedish and Croatian
 ```
