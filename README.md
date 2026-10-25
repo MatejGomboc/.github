@@ -1,4 +1,4 @@
-# .github
+# My GitHub front page. Welcome!
 
 The landing page for [github.com/MatejGomboc](https://github.com/MatejGomboc). GitHub shows
 [`profile/README.md`](profile/README.md) at the top of the profile; that file is the whole point of this repository.
