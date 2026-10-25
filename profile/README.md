@@ -31,6 +31,10 @@ simulations of galaxies, strings and pendulums just to watch them move. I also l
 
 ## Selected projects
 
+- [altium-designer-mcp](https://github.com/embedded-society/altium-designer-mcp): an MCP server that lets AI
+  assistants manage Altium Designer component libraries
+- [tron-grid-lite](https://github.com/ai-quokka-wannabe/tron-grid-lite): a deliberately simple Vulkan ray tracer for
+  AI creature agents, neon on infinite black, with no ray-tracing hardware required
 - [Verilog-I2S-Transciever](https://github.com/MatejGomboc/Verilog-I2S-Transciever): an I2S transceiver in Verilog HDL
 - [ELF-Schumann-Resonance-Receiver](https://github.com/MatejGomboc/ELF-Schumann-Resonance-Receiver): a receiver for the
   Earth's own 7.83 Hz heartbeat
