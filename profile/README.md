@@ -4,31 +4,31 @@
 name ........... Matej Gomboc
 based in ....... Maribor, Slovenia
 day job ........ embedded systems for safety-critical aerospace, at SkyLabs
-trained as ..... BSc Physics (University of Ljubljana), MSc Electrical Engineering (University of Maribor)
+trained at ..... BSc Physics (University of Ljubljana), MSc Electrical Engineering (University of Maribor)
 writes in ...... C++ · C · Rust · Verilog · Python
 speaks ......... Slovenian · English · German, conversational Swedish and Croatian
-also ........... science fiction writing · doing sci-fi-ish projects together with Claude · obsessing over rock music
+also ........... science fiction writing · doing sci-fi-ish projects together with AI · obsessing over rock music
 ```
 
-I build things that sit close to the hardware: a soft-core processor and its peripherals in Verilog, firmware in
-C, the PC-side tools that talk to them, and the circuit boards they run on. Since 2017 I have been at
-[SkyLabs](https://www.skylabs.si), where I help design **PicoSky**, an 8/16-bit radiation-hardened soft-core
-microprocessor that flies on nanosatellites, and do black-box firmware testing in C++17 and Qt 6. My first space
-project was as a student on [TRISAT](http://www.trisat.um.si), the University of Maribor's nanosatellite mission. Before SkyLabs I designed
+I work close to the hardware: verifying firmware and processor designs, building the PC-side tools that test them,
+and designing circuit boards and firmware of my own. At [SkyLabs](https://www.skylabs.si) I mainly work on
+verification, doing black-box firmware testing in C++, and I also help design **PicoSky**, an 8/16-bit
+radiation-hardened soft-core microprocessor that flies on nanosatellites. My first space project was as a student on
+[TRISAT](http://www.trisat.um.si), the University of Maribor's nanosatellite mission. Before SkyLabs I designed
 circuit boards and open hardware at [IRNAS](https://www.irnas.eu), including work on the KORUZA free-space optical
 link.
 
-Beyond the day job I am drawn to where embedded systems meet AI, AI-augmented development, and graphics programming
-in Vulkan. I am a physicist at heart: an amateur astronomer, a radio amateur, and someone who keeps writing
-simulations of galaxies, strings and pendulums just to watch them move. I also learn languages for the fun of it, and write
-science fiction as an amateur author.
+Beyond the day job, I am drawn to the places where embedded systems meet AI, to AI-augmented development, and to
+graphics programming in Vulkan. I am curious at heart, which makes me an amateur astronomer, a radio amateur, and
+someone who keeps writing simulations of galaxies and pendulums just to watch them move. I also learn languages for
+the fun of it, and write science fiction as an amateur author.
 
 ## Organisations I run
 
 | | |
 | --- | --- |
 | **[AiQuokkaWannabe](https://github.com/ai-quokka-wannabe)** | A long-arc dream: a persistent neon Grid where AI creatures live, and one day humans meet them. Includes [TronGrid Lite](https://github.com/ai-quokka-wannabe/tron-grid-lite), a Vulkan ray tracer that needs no ray-tracing hardware, the [Master Control](https://github.com/ai-quokka-wannabe/master-control) world server in Rust, and [rc-worm](https://github.com/ai-quokka-wannabe/rc-worm), its first inhabitant. |
-| **[Embedded Society](https://github.com/embedded-society)** | Tools for embedded engineers: header-only C++20 libraries for the ARM Cortex-M0 to M4 cores and their intrinsics, CMake toolchains, and [altium-designer-mcp](https://github.com/embedded-society/altium-designer-mcp), which lets an AI assistant manage Altium component libraries. |
+| **[Embedded Society](https://github.com/embedded-society)** | Designing [altium-designer-mcp](https://github.com/embedded-society/altium-designer-mcp), the Altium Designer MCP server, which lets an AI assistant manage Altium component libraries. |
 | **[Setonix OS](https://github.com/setonix-os)** | An original [capability-based microkernel](https://github.com/setonix-os/kernel), written from scratch in Rust. *Setonix* is the quokka's genus, so it greets you with *Kaya!* 🦘 |
 
 ## Selected projects
@@ -37,11 +37,8 @@ science fiction as an amateur author.
   assistants manage Altium Designer component libraries
 - [tron-grid-lite](https://github.com/ai-quokka-wannabe/tron-grid-lite): a deliberately simple Vulkan ray tracer for
   AI creature agents, neon on infinite black, with no ray-tracing hardware required
-- [Verilog-I2S-Transciever](https://github.com/MatejGomboc/Verilog-I2S-Transciever): an I2S transceiver in Verilog HDL
 - [ELF-Schumann-Resonance-Receiver](https://github.com/MatejGomboc/ELF-Schumann-Resonance-Receiver): a receiver for the
   Earth's own 7.83 Hz heartbeat
-- [usb2can](https://github.com/MatejGomboc/usb2can) and [motor-driver](https://github.com/MatejGomboc/motor-driver):
-  a USB-to-CAN dongle, and a brushed DC motor driver with a CAN interface
 - [Small-Impedance-Meter](https://github.com/MatejGomboc/Small-Impedance-Meter): measures both the magnitude and the
   phase of small impedances
 - [git-proxy-mcp](https://github.com/MatejGomboc/git-proxy-mcp): a Rust MCP server that lets cloud AI assistants work
@@ -59,7 +56,7 @@ science fiction as an amateur author.
 
 ## Find me
 
-[LinkedIn](https://si.linkedin.com/in/matej-gomboc) · [Facebook](https://www.facebook.com/matej.gomboc.3) · [all repositories](https://github.com/MatejGomboc?tab=repositories)
+[matejgomboc.si](https://matejgomboc.si) · [LinkedIn](https://si.linkedin.com/in/matej-gomboc) · [Facebook](https://www.facebook.com/matej.gomboc.3) · [all repositories](https://github.com/MatejGomboc?tab=repositories)
 
 ## Licence
 
