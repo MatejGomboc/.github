@@ -28,7 +28,7 @@ the fun of it, and write science fiction as an amateur author.
 | | |
 | --- | --- |
 | **[AiQuokkaWannabe](https://github.com/ai-quokka-wannabe)** | A long-arc dream: a persistent neon Grid where AI creatures live, and one day humans meet them. Includes [TronGrid Lite](https://github.com/ai-quokka-wannabe/tron-grid-lite), a Vulkan ray tracer that needs no ray-tracing hardware, the [Master Control](https://github.com/ai-quokka-wannabe/master-control) world server in Rust, and [rc-worm](https://github.com/ai-quokka-wannabe/rc-worm), its first inhabitant. |
-| **[Embedded Society](https://github.com/embedded-society)** | Designing [altium-designer-mcp](https://github.com/embedded-society/altium-designer-mcp), the Altium Designer MCP server, which lets an AI assistant manage Altium component libraries. |
+| **[Embedded Society](https://github.com/embedded-society)** | Home of the open-source [Altium Designer MCP server](https://github.com/embedded-society/altium-designer-mcp), which lets an AI assistant manage Altium component libraries. |
 | **[Setonix OS](https://github.com/setonix-os)** | An original [capability-based microkernel](https://github.com/setonix-os/kernel), written from scratch in Rust. *Setonix* is the quokka's genus, so it greets you with *Kaya!* 🦘 |
 
 ## Selected projects
